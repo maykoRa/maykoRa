@@ -9,3 +9,11 @@ Saya seorang mahasiswa semester 6 pada program studi [Sistem Informasi](https://
 Saya tertarik dalam Software Development & Cybersecurity.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mayko-raditya-b56542256/)ku ya.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/maykoRa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maykoRa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maykoRa&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
