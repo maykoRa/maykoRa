@@ -4,7 +4,7 @@ Perkenalkan nama saya **Mayko Raditya Wirawan**.<br>
 
 Saya seorang **Mahasiswa** di [Universitas Hasanuddin](https://www.unhas.ac.id/).<br>
 
-Saya seorang mahasiswa semester  7pada program studi [Sistem Informasi](https://is.sci.unhas.ac.id/).<br>
+Saya seorang mahasiswa semester 7 pada program studi [Sistem Informasi](https://is.sci.unhas.ac.id/).<br>
 
 Saya tertarik dalam Software Development.<br>
 
